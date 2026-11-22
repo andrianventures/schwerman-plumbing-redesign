@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+*-private/
+node_modules/
+contact-sheet.jpg
